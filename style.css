@@ -30,3 +30,15 @@ div {
     left: 50px;
 }
 
+.fixed-position {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    background-color: yellow;
+}
+
+.sticky-position {
+    position: sticky;
+    top: 10px;
+    background-color: blueviolet;
+}
