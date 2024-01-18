@@ -9,24 +9,10 @@ div {
     margin: 10px;
     padding: 10px;
     text-align: center;
-  }
+}
 
 .static-position {
-/*Is not affected by the top,left,right and bottom properties*/
+    /*Is not affected by the top,left,right and bottom properties*/
+    position: static;
 }
 
-.relative-position {
-
-}
-
-.absolute-position {
-
-}
-
-.fixed-position {
-
-}
-
-.sticky-position {
-
-}
