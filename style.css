@@ -24,3 +24,9 @@ div {
 }
 
 
+.absolute-position {
+    position: absolute;
+    top: 150px;
+    left: 50px;
+}
+
